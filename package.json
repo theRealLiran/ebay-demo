@@ -1,0 +1,23 @@
+{
+  "name": "ebay-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theRealLiran/ebay-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theRealLiran/ebay-demo/issues"
+  },
+  "homepage": "https://github.com/theRealLiran/ebay-demo#readme",
+  "devDependencies": {
+    "cypress": "^10.3.1",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.18.10/xlsx-0.18.10.tgz"
+  }
+}
